@@ -39,39 +39,30 @@ I. Connect the multimeter at the output of kit..
 
 OBSERVATION TABLE
 
-<table border="1">
+<table>
   <tr>
-    <th rowspan="2">Displacement</th>
-    <th colspan="3">Positive Displacement</th>
-    <th colspan="3">Negative Displacement</th>
-  </tr>
-  <tr>
-    <th>Input Voltage (Vin)</th>
-    <th>Output Voltage (Vout)</th>
+    <th>Displacement Type</th>
+    <th>Input Voltage (V rms)</th>
+    <th>Output Voltage</th>
     <th>Frequency (Hz)</th>
-    <th>Input Voltage (Vin)</th>
-    <th>Output Voltage (Vout)</th>
-    <th>Frequency (Hz)</th>
+    <th>Time (1/f)</th>
   </tr>
   <tr>
-    <td>0.5 mm</td>
-    <td>7 V</td>
-    <td>2.2 V</td>
-    <td>1000 Hz</td>
-    <td>7 V</td>
-    <td>2.2 V</td>
-    <td>1000 Hz</td>
+    <td>Positive Displacement</td>
+    <td>7</td>
+    <td>2.2 V (D = 5 mm)</td>
+    <td>1000</td>
+    <td>1 ms</td>
   </tr>
   <tr>
-    <td>1.5 mm</td>
-    <td>7 V</td>
-    <td>2.2 V</td>
-    <td>1000 Hz</td>
-    <td>7 V</td>
-    <td>2.2 V</td>
-    <td>1000 Hz</td>
+    <td>Negative Displacement</td>
+    <td>7</td>
+    <td>D = −5 mm</td>
+    <td>1000</td>
+    <td>1 ms</td>
   </tr>
 </table>
+
 
 
 PRECAUTION: -
